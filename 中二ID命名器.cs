@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 
-namespace Number_Triangle
+namespace 中二ID命名器
 {
     class Program
     {
